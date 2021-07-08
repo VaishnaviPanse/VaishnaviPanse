@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 <h3 align="center">I'm passionate programmer and developer!</h3>
 
-- 🔭 I’m currently working on **few cool projects.**
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **python, C++, Arduino**
@@ -12,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaishnavi-panse-v7vvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-panse-v7vvp" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vaishnavipanse39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavipanse39" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vaishnavipanse39/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vaishnavipanse39/profile" height="30" width="40" /></a>
 </p>
 
